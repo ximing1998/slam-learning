@@ -1,0 +1,8 @@
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/install/local.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/install.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/hello.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/sayHello.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ximing/code/slam_code/ch1/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

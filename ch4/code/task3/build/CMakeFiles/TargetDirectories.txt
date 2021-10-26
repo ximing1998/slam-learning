@@ -1,0 +1,3 @@
+/home/ximing/code/slam_code/ch4/task3/build/CMakeFiles/rebuild_cache.dir
+/home/ximing/code/slam_code/ch4/task3/build/CMakeFiles/fisheye.dir
+/home/ximing/code/slam_code/ch4/task3/build/CMakeFiles/edit_cache.dir

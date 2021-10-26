@@ -1,0 +1,3 @@
+/home/ximing/code/slam_code/ch2/task4/build/CMakeFiles/rebuild_cache.dir
+/home/ximing/code/slam_code/ch2/task4/build/CMakeFiles/useEigen.dir
+/home/ximing/code/slam_code/ch2/task4/build/CMakeFiles/edit_cache.dir

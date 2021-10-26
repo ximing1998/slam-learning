@@ -1,0 +1,3 @@
+/home/ximing/code/slam_code/ch4/task2/build/CMakeFiles/rebuild_cache.dir
+/home/ximing/code/slam_code/ch4/task2/build/CMakeFiles/undistort_image.dir
+/home/ximing/code/slam_code/ch4/task2/build/CMakeFiles/edit_cache.dir
