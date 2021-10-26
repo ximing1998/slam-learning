@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/sayHello.dir/useHello.cpp.o  -o sayHello -Wl,-rpath,/home/ximing/code/slam_code/ch1/task5/build libhello.so -lglog /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.1 -lgtest -lpthread 

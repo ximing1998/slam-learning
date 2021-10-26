@@ -1,0 +1,18 @@
+Log file created at: 2021/10/18 12:15:31
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1018 12:15:31.694773  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695181  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695206  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695222  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695238  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695255  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695269  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695286  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695300  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695317  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695333  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695348  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695363  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695379  6675 hello.cpp:7] Hello SLAM
+I1018 12:15:31.695394  6675 hello.cpp:7] Hello SLAM

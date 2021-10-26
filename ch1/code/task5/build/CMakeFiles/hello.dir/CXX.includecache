@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/hello.h
+
+/home/ximing/code/slam_code/ch1/task5/src/hello.cpp
+hello.h
+/home/ximing/code/slam_code/ch1/task5/src/hello.h
+iostream
+-
+glog/logging.h
+/home/ximing/code/slam_code/ch1/task5/src/glog/logging.h
+

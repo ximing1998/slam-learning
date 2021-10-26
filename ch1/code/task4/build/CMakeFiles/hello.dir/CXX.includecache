@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/hello.h
+
+/home/ximing/code/slam_code/ch1/task4/src/hello.cpp
+hello.h
+/home/ximing/code/slam_code/ch1/task4/src/hello.h
+iostream
+-
+

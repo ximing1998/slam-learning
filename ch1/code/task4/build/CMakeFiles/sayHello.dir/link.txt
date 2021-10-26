@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/sayHello.dir/useHello.cpp.o  -o sayHello -Wl,-rpath,/home/ximing/code/slam_code/ch1/task4/build libhello.so 

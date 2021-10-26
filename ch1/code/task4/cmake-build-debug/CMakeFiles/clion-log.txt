@@ -1,0 +1,7 @@
+/snap/clion/164/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ximing/code/slam_code/ch1/task4
+/home/ximing/code/slam_code/ch1/task4/cmake
+-- Found Hello: /usr/local/lib/libhello.so
+/home/ximing/code/slam_code/ch1/task4/cmake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ximing/code/slam_code/ch1/task4/cmake-build-debug

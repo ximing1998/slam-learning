@@ -1,0 +1,3 @@
+/home/ximing/code/slam_code/ch3/task9/build/CMakeFiles/rebuild_cache.dir
+/home/ximing/code/slam_code/ch3/task9/build/CMakeFiles/draw_trajectory.dir
+/home/ximing/code/slam_code/ch3/task9/build/CMakeFiles/edit_cache.dir
