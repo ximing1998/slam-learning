@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra -pedantic -O2 computeORB.cpp -o aa -L /usr/local/lib/ -ltbb `pkg-config --cflags --libs opencv`

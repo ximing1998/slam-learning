@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ximing/slam-code/ch5/task2/computeORB.cpp
+opencv2/opencv.hpp
+-
+execution
+-
+string
+-
+chrono
+/home/ximing/slam-code/ch5/task2/chrono
+mutex
+/home/ximing/slam-code/ch5/task2/mutex
+

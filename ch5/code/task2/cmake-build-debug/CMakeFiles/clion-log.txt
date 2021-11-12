@@ -1,0 +1,5 @@
+/opt/clion-2021.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ximing/slam-code/ch5/task2
+-- CMAKE_BUILD_TYPE IS Release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ximing/slam-code/ch5/task2/cmake-build-debug
